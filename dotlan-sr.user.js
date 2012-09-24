@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name           	Dotlan-SR
-// @version        	0.1
+// @version        	0.1.1
 // @namespace      	https://github.com/stuartdb/dotlan-sr
 // @author         	Stuart Baker
 // @description    	Adds capital ship system range links to dotlan system pages.
@@ -33,7 +33,7 @@ function addRangeLink() {
 
 function getCurrentSystem() {
 	var pathname = document.location.pathname;
-	return pathname.substring(8,14);
+	return pathname.substring(8,50);
 }
 
 addRangeLink();
