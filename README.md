@@ -11,11 +11,11 @@ Installation
 Firefox users need to have the [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) addon installed.
 Chrome users do not need any other addons installed.
 
-Navigate to the
+Navigate to the raw
 
     /dotlan-ser.user.js
 
-file in this repository or [click here](https://github.com/stuartdb/dotlan-sr/blob/master/dotlan-sr.user.js) and it should install the script.
+file in this repository or [click here](https://github.com/stuartdb/dotlan-sr/raw/master/dotlan-sr.user.js) and it should install the script.
 
 Todo
 -------
