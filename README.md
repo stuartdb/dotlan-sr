@@ -1,7 +1,7 @@
 dotlan-sr
 ==============
 
-![dotlan-sr screenshot](/img/dotlan-sr-shot.png)
+![dotlan-sr screenshot](img/dotlan-sr-shot.png)
 
 A userscript for adding capital ship system range links to [dotlan](http://evemaps.dotlan.net/) system pages.
 
