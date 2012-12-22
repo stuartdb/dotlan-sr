@@ -18,11 +18,7 @@ Chrome users are recommended to have the
 (https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 extension installed.
 
-Navigate to the raw
-
-    /dotlan-ser.user.js
-
-file in this repository or
+Navigate to the raw ```/dotlan-ser.user.js``` file in this repository or
 [click here](https://github.com/stuartdb/dotlan-sr/raw/master/dotlan-sr.user.js)
 and it should install the script.
 
