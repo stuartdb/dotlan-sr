@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name Dotlan-SR
-// @version 1.0.1
+// @version 1.0.2
 // @namespace https://github.com/stuartdb/dotlan-sr
 // @author Stuart Baker
 // @description Adds capital ship system range links to dotlan system pages.

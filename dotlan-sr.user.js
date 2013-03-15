@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name Dotlan-SR
-// @version 1.0.1
+// @version 1.0.2
 // @namespace https://github.com/stuartdb/dotlan-sr
 // @author Stuart Baker
 // @description Adds capital ship system range links to dotlan system pages.
@@ -101,6 +101,7 @@ function insert_range_bar() {
         jdc_option = document.createElement("option");
         jdc_option.setAttribute("label", i);
         jdc_option.setAttribute("value", i);
+        jdc_option.textContent = i;
         // Just going to make jdc 5 the default selection
         if (i === get_jdc()) {
             jdc_option.setAttribute("selected", "true");
