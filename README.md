@@ -25,4 +25,4 @@ and it should install the script.
 License
 -------
 
-Dotlan-sr is released under the [MIT license](http://opensource.org/licenses/MIT)
+dotlan-sr is released under the [MIT license](http://opensource.org/licenses/MIT)
